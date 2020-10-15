@@ -1,0 +1,19 @@
+{
+  "name": "titan",
+  "version": "1.0.0",
+  "description": "Simple Hello World",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/ocp-dev-bootcamp-2020-05/day6-building-applications.git"
+  },
+  "author": "Lucas Sabalo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
